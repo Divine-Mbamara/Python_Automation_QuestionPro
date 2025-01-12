@@ -1,4 +1,4 @@
-## Python Automation for Further Faster Pitch Competition Scoring (via QuestionPro)
+## Python Automation for Further Faster Pitch Scoring Competition (via QuestionPro)
 ### Description
 This program simplifies the process of score collection, calculation, ranking, and reporting for the further faster pitch competition.
 - It reads the CSV file containing judges’ scores for each contestant exported from QuestionPro.
